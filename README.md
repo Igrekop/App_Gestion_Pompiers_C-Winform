@@ -9,6 +9,9 @@
 
 <!-- CAPTURES D'ÉCRAN -->
 ## Captures d'écran
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/228131c4-54b9-4677-ae19-1a1ce3109019" />
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/a737b04c-1ffd-421f-9531-37a42872039b" />
+
 
 <!-- Ajoutez vos captures d'écran ici -->
 <!-- Exemple : ![Capture d'écran du projet](./images/screenshot.png) -->
@@ -78,6 +81,8 @@ Pour exécuter l'application localement, suis ces étapes.
 
 # Ou alternativement exécuter simplement le raccourci :
 ```sh
+  SAE_POMPIER_A21 - Shortcut.lnk
+```
 
 
 <!-- USAGE -->
@@ -97,20 +102,9 @@ Pour exécuter l'application localement, suis ces étapes.
 - [x] Gestion des effectifs
 - [x] Gestion des interventions
 - [x] Gestion du matériel
-- [ ] Export des rapports en PDF
+- [x] Export des rapports en PDF
 - [ ] Notifications et alertes
 - [ ] Interface plus moderne avec thèmes
-
-<!-- CONTRIBUTING -->
-## Contribuer
-
-Les contributions sont les bienvenues !
-
-1. Fork le projet
-2. Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Committez vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez sur la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
 
 <!-- LICENSE -->
 ## Licence
@@ -119,16 +113,6 @@ Distribué sous la licence MIT. Voir `LICENSE.txt` pour plus d'informations.
 
 <!-- CONTACT -->
 ## Contact
+Email - [yvann.du.soub@gmail.com](mailto:yvann.du.soub@gmail.com) <br>
 
-Igrek - [@your_twitter](https://twitter.com/your_username)
-
-Email - [placeholder@example.com](mailto:placeholder@example.com)
-
-Project Link: [https://github.com/Igrekop/Gestion-Pompiers-WinForms](https://github.com/Igrekop/Gestion-Pompiers-WinForms)
-
-<!-- ACKNOWLEDGMENTS -->
-## Remerciements
-
-* [Microsoft Docs - WinForms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
+Project Link: [https://github.com/Igrekop/App_Gestion_Pompiers_C-Winform](https://github.com/Igrekop/App_Gestion_Pompiers_C-Winform)
